@@ -37,14 +37,14 @@ Git은 리눅스기반 태생이며, 명령어를 사용하여 git를 사용/관
 ## 결론
 그래서 어떻게하면 GitHub에 올린 폴더를 삭제할 수 있을까??(지금생각하면 정말 간단하지만 조금전만해도 꽤나 심각했다...)<br>
 
-1 SourceTree(PC) <-> GitHub 연동 상태일 때,
+**``1 SourceTree(PC) <-> GitHub 연동 상태일 때,``**<br>
 예를 들어 <br>
 C:\\git\\test 폴더를 SourceTree를 통하여 업로드 완료 -> GitHub 업로드 완료. <br>
 C:\\git\\test 폴더 삭제 -> Change이벤트 발생 -> Commit -> Push -> GitHub 폴더 삭제 되어있음. <br>
 정말 간단한 원리 였다. 내 PC의 GIT폴더와 GITHUB가 연동되어지면(SourceTree를 통하여)
 git폴더에 파일을 업로드하면 커밋 이벤트가 발생하고 똑같이 삭제해도 커밋 이벤트가 발생한다.<br>
 
-2 GitBash(PC) <-> GitHub 연동 상태일 때<br>
+**``2 GitBash(PC) <-> GitHub 연동 상태일 때``**<br>
 
 아래 링크에 따라 Github과 연동을 한번 해준다.
 - [Git Bash사용](http://emflant.tistory.com/123)
