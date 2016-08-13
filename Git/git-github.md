@@ -5,7 +5,8 @@ Spring(이클립스) GIT-플러그인을 사용하여 Github에 프로젝트파�
 아래 그림에 board_test 라는 폴더와 test폴더를 현재 github(web)에서 어떻게 삭제할 수있는지 계속 찾아봄...
 
 
-![img1](../img/git/2.jpg "title")
+
+![img1](https://github.com/Jack0804/TIL/blob/master/img/git/2.jpg "title")
 
 
 
