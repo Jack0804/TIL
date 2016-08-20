@@ -6,7 +6,7 @@
  ----
  
 ### Why?
-  소스코드 하이라이팅 툴은 여러가지가 있는데  **왜 prettyprint를 사용하는지?**
+  소스코드 하이라이팅 툴은 여러가지가 있는데  **왜 prettyprint를 사용하는지?**<br>
 [(링크)하이라이팅 툴 종류 및 장 단점](http://blog.joostory.net/398)
 
 1 - StackEdit는 마크다운 소스코드 첨삭 시 아래와 같이 pre태그 Class prettyprint사용
@@ -15,7 +15,7 @@
  /*소스코드 입력*/
 </pre>
 ```
- (참조 : [링크](http://hashcode.co.kr/questions/1772/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95-%EC%9E%91%EC%84%B1-%ED%8C%81)).
+(참조 : [링크](http://hashcode.co.kr/questions/1772/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95-%EC%9E%91%EC%84%B1-%ED%8C%81)).
 
 
 2 - 티스토리 html편집 -> **Prettyprint를 적용**  -> 소스코드를 MD로 작성 및 업로드 -> Prettyprint를 사용하는 모든 소스코드에 **하이라이팅 효과적용**
@@ -29,9 +29,7 @@
  * 위에 링크따라서 실행하면 소스코드가 Prettyprint 스킨(sunburst) 적용 완료.
 
 #### 소스코드 배경 수정하기
-<p style="text-align: left; clear: none; float: none;">[##_1N|cfile28.uf@2659B54257B8706F309B4A.jpg|width="640" height="341" filename="2016-08-20 23;59;08.jpg" filemime="image/jpeg"|_##]</p>
-<p><br /></p>
-
+![사진](http://cfile28.uf.tistory.com/image/2659B54257B8706F309B4A)
 
 * 위에 사진처럼 CSS항목 선택 ->  "Pre" 검색 -> Background 지움
 * "저장" 누르고 다시 글 확인하면 소스코드가 회색배경에서 Pretty스킨에 맞는 배경 적용완료.
